@@ -6,9 +6,8 @@
 
 ## About me
 
-- 👋 Hi, I’m @DavideZanutto
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning everything related to the Data Science Field during my double master's degree at Politecnico di Milano and Eindhoven University of Technology
+- 👋 Hi, I’m Amine Chiki
+- 👀 I’m interested in Software Engineer
 - 💞️ I’m looking to collaborate on projects to further broaden my knowledge and gain some more practical experience
 
 ## My main competences
