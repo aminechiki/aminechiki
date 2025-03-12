@@ -30,13 +30,10 @@
   <a href="https://www.linkedin.com/in/davide-zanutto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto://zanuttodavide00@gmail.com">
+  <a href="mailto://aminechiki80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/Davide_Zanutto">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>  
-  <a href="https://www.instagram.com/davide.zanutto/">
+  <a href="https://www.instagram.com/amine_chiki/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
