@@ -15,6 +15,7 @@
 ## My main competences
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular"  alt="angular" width="55" height="55"/>&nbsp &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs"  alt="nodejs" width="55" height="55"/>&nbsp &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dot-net"  alt="dot-net" width="55" height="55"/>&nbsp &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore"  alt="dotnetcore" width="55" height="55"/>&nbsp &nbsp;
