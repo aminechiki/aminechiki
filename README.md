@@ -15,10 +15,6 @@
 ## My main competences
 
 <div>
-
-  
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".netcore"  alt=".netcore" width="55" height="55"/>&nbsp &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript"  alt="javascript" width="55" height="55"/>&nbsp &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="55" height="55"/>&nbsp;
